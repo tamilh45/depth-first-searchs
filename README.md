@@ -69,6 +69,8 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
+<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/3eb28cde-be48-42cc-9c7d-9cfb9792a584" />
+
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
@@ -85,6 +87,7 @@ F H <BR>
 2 4 <BR>
 <hr>
 <h3>Sample Output</h3>
+
 <hr>
 ['0', '1', '2', '3', '4']
 
